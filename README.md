@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 ### Let's connect!
 <p>
-    <a href="https://diyorossi.gitlab.io/resume/" target="blank"><img src="https://img.shields.io/badge/Website-https://bagusfe.com-green?" /></a>
-    <a href="https://www.linkedin.com/in/denlei-diyorossi/" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=linkedin" /></a>
-    <a href="https://twitter.com/diyorossi" target="blank"><img src="https://img.shields.io/badge/@bagusfe_-30302f?style=flat&logo=twitter" /></a>
+    <a href="https://diyorossi.gitlab.io/resume/" target="blank"><img src="https://img.shields.io/badge/Website-https://diyorossi.gitlab.io/resume/-green?" /></a>
+    <a href="https://www.linkedin.com/in/denlei-diyorossi/" target="blank"><img src="https://img.shields.io/badge/Denlei_Diyorossi-30302f?style=flat&logo=linkedin" /></a>
+    <a href="https://twitter.com/diyorossi" target="blank"><img src="https://img.shields.io/badge/@diyorossi_-30302f?style=flat&logo=twitter" /></a>
 </p>
